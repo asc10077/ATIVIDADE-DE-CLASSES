@@ -1,3 +1,4 @@
+#atividade 1 feita por Alana Soares e Samara Araújo
 Classe Veiculo :
 def __init__(self, marca, modelo):
          auto.marca = marca
